@@ -34,6 +34,6 @@
   },
   "homepage": "https://github.com/zbtang/React-Native-ViewPager#readme",
   "dependencies": {
-    "@react-native-community/viewpager": "^3.3.0"
+    "@react-native-community/viewpager": "^2.0.1"
   }
 }
